@@ -234,9 +234,13 @@ function create_config( )
     "download_media",
     "invite",
     "all",
-    "leave_ban"
+    "leave_ban",
+    "addplug",
+    "plugins",
+    "cpu",
+    "bot_on_off"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {125402813,169530637},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
